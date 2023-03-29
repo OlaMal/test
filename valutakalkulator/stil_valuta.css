@@ -1,0 +1,20 @@
+form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  label {
+    width: 100px;
+    margin-right: 10px;
+  }
+  
+  select, input {
+    margin-bottom: 10px;
+  }
+  
+  #converted-amount {
+    font-size: 18px;
+    text-align: center;
+  }
+  
